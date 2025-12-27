@@ -12,13 +12,9 @@ I am a passionate competitive programmer. My technical focus is on **Algorithms*
 - ⌨️ **Workflow:** Terminal-only (**Neovim** + **tmux**)
 - ⚙️ **Focus:** System Optimization & Advanced Algorithms
 
-- ### 📝 Research & Projects
+### 📝 Research & Projects
 - Co-author of *MateInfoUB* (LLM Benchmarking), accepted at **ACL 2025 (BEA Workshop)**.
 
-- ### 🛠 Technical Toolkit
-- **Deep Tech:** C++, C, Go, Python, Linux Internals, x86 Assembly.
-- **Focus:** Distributed Systems, Parallel Programming, Low-level Optimization.
-  
 ---
 
 ### 🌟 Interests
