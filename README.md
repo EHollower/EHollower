@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Mihnea-Vicentiu Bucă
 
-<!--
-**EHollower/EHollower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Student in Distributed Systems @ University of Bucharest**  
+**🏆 RCPC Gold Medalist | 2x SEERC Finalist**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate competitive programmer. My technical focus is on **Algorithms**, **Distributed Systems**, and **Machine Learning**.
+
+### 🛠 Technical Toolkit
+- **Deep Tech:** C++, C, Go, Python, Linux Internals, x86 Assembly.
+- **Workflow:** Terminal-based (**Neovim** + **tmux**)
+- **Focus:** Distributed Systems, Parallel Programming, Low-level Optimization.
+
+- ### 📝 Research & Projects
+- Co-author of *MateInfoUB* (LLM Benchmarking), accepted at **ACL 2025 (BEA Workshop)**.
+
+- ### 🛠 Technical Toolkit
+- **Deep Tech:** C++, C, Go, Python, Linux Internals, x86 Assembly.
+- **Focus:** Distributed Systems, Parallel Programming, Low-level Optimization.
+  
+---
+
+*Strategy enthusiast: ♟️ Chess | 🃏 Poker | 🏛️ History*
